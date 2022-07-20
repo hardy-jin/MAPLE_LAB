@@ -2,8 +2,6 @@
 
     ./rosbag2video.py camera_and_state.bag
 
-    rosbag2video, by Maximilian Laiacker 2020 and Abel Gabor 2019
-
     ############# COMPRESSED IMAGE  ######################
     /image_raw/compressed  with datatype: sensor_msgs/CompressedImage
 
